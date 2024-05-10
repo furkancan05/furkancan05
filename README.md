@@ -26,8 +26,8 @@
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" alt="javascript" width="40" height="40"/>
 <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/>
 <img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="reactnative" width="60" height="40"/>
-<img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="reactnative" width="40" height="40"/>
-<img src="https://seeklogo.com/images/R/remix-logo-862D8B1019-seeklogo.com.png" alt="reactnative" width="40" height="40"/>
+<img src="https://www.datocms-assets.com/98835/1684410508-image-7.png" alt="reactnative" width="40" height="40"/>
+<img src="https://ih1.redbubble.net/image.5109115813.3888/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="reactnative" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
